@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34616.47
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2324_1Y_CpEOOP_MP1MultiClass", "2324_1Y_CpEOOP_MP1MultiClass\2324_1Y_CpEOOP_MP1MultiClass.csproj", "{097CB962-180F-42F5-AA42-B83C265E098B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{097CB962-180F-42F5-AA42-B83C265E098B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{097CB962-180F-42F5-AA42-B83C265E098B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{097CB962-180F-42F5-AA42-B83C265E098B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{097CB962-180F-42F5-AA42-B83C265E098B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {90A4712A-580E-4465-88C3-8AA5386D370F}
+	EndGlobalSection
+EndGlobal
